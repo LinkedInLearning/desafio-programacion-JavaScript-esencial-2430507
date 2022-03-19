@@ -19,7 +19,7 @@ Las ramas están estructuradas para corresponder a los vídeos del curso y la co
 ## Instalación
 
 1. Para utilizar estos archivos de ejercicios, debes tener descargado lo siguiente:
-   - VSCode
+   - Un editor de código ([VS Code](https://code.visualstudio.com/) es recomendado)
 
 2. Clona este repositorio en tu máquina local usando la Terminal (macOS) o CMD (Windows), o una herramienta GUI como SourceTree.
 
