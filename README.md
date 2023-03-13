@@ -1,12 +1,12 @@
-# Nombre final del curso
+# Desafío de programación: JavaScript básico
 
-Este es el repositorio del curso de LinkedIn Learning `[nombre del curso]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `Desafío de programación: JavaScript básico`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
-![Nombre completo del curso][lil-thumbnail-url] 
+![COURSENAME][lil-thumbnail-url] 
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
-DESCRIPCIÓN DEL CURSO
+Empezar a programar en JavaScript no es tarea fácil, pero como todo, mejora con la práctica. Este curso viene a ayudarte precisamente con eso, y te trae ejercicios que podrás realizar para pulir tu forma de programar, e incluso aplicarlos al construir aplicaciones web reales en el futuro, como son la manipulación de texto, los cálculos matemáticos, la filtración de datos con funciones de arreglos y la modificación de contenidos de páginas web. ¿Empezamos a mejorar tu código en JavaScript?
 
 ## Instrucciones
 
@@ -19,16 +19,16 @@ Las ramas están estructuradas para corresponder a los vídeos del curso y la co
 ## Instalación
 
 1. Para utilizar estos archivos de ejercicios, debes tener descargado lo siguiente:
-   - VSCode
+   - Un editor de código ([VS Code](https://code.visualstudio.com/) es recomendado)
 
 2. Clona este repositorio en tu máquina local usando la Terminal (macOS) o CMD (Windows), o una herramienta GUI como SourceTree.
 
 ### Docente
 
-**Nombre del docente**
+**Natalia Corea**
 
-Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/).
+Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/natalia-corea).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
+[lil-course-url]: https://www.linkedin.com/learning/desafio-de-programacion-javascript-basico
+[lil-thumbnail-url]: https://cdn.lynda.com/course/2430507/2430507-1654590403573-16x9.jpg
